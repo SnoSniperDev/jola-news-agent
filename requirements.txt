@@ -1,0 +1,9 @@
+flask==3.0.3
+requests==2.32.3
+beautifulsoup4==4.12.3
+feedparser==6.0.11
+python-dotenv==1.0.1
+schedule==1.2.2
+tweepy==4.14.0
+pytz==2024.1
+gunicorn==22.0.0
